@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458258677043",
+    "project_id": "plantbazar-6a65f",
+    "storage_bucket": "plantbazar-6a65f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458258677043:android:936fa0b84d29b86ff8d246",
+        "android_client_info": {
+          "package_name": "com.example.plantbazar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjEBXgZlL3KmVitwvZqDWoiPBSOGq3bw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+package com.example.plantbazar
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
